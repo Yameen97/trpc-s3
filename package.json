@@ -21,7 +21,7 @@
     "dotenv": "^16.0.3",
     "formidable": "^2.1.1",
     "mongoose": "^6.6.4",
-    "next-auth": "^4.10.3",
+     "next-auth": "^4.12.2",
     "react": "18.2.0",
     "react-aws-s3-typescript": "^1.1.5",
     "react-dom": "18.2.0",
